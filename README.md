@@ -1,1 +1,17 @@
-# react-projects
+# Basic React Projects
+
+01. [Birthday Reminder](https://01-birthday-reminder.netlify.app/)
+02. [Tours](https://02-tours.netlify.app/)
+03. [Reviews](https://03-reviews.netlify.app/)
+04. [Accordion](https://04-accordion.netlify.app/)
+05. [Menu](https://05-menu.netlify.app/)
+06. [Tabs](https://06-tabs.netlify.app/)
+07. [Slider](https://07-slider.netlify.app/)
+08. [Lorem Ipsum Generator](https://08-lorem.netlify.app/)
+09. [Color Generator](https://09-color-generator.netlify.app/)
+10. [Grocery Bud](https://10-grocery-bud.netlify.app/)
+11. [Navbar](https://11-react-navbar.netlify.app/)
+12. [Modal and Sidebar](https://12-modal-and-sidebar.netlify.app/)
+13. [Stripe Submenus](https://13-stripe-submenus.netlify.app/)
+14. [Cart](https://14-react-cart.netlify.app/)
+15. [Cocktails](https://15-react-cocktails.netlify.app/)
